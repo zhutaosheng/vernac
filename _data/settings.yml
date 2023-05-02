@@ -1,0 +1,8 @@
+menu:
+- {name: 'Home', url: '/'}
+- {name: 'Blog', url: '/blog'}
+- {name: 'Resources', url: '/resources'}
+
+social:
+- {icon: 'github', link: 'https://github.com/zhutaosheng'}
+- {icon: 'instagram', link: 'https://www.instagram.com/zhutao.s/?utm_source=ig_embed&utm_campaign=loading'}

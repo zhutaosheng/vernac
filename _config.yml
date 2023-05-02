@@ -1,0 +1,7 @@
+url: "https://www.zhutaosheng.com/englanto" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Englanto" # the name of your site
+description: "A constructed language designed to be easy to learn and serve as a universal language"
+
+---
+permalink: /404.html
+---
