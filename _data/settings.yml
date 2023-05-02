@@ -1,6 +1,5 @@
 menu:
 - {name: 'Home', url: '/'}
-  - {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
 - {name: 'Resources', url: '/resources'}
 
