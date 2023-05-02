@@ -2,7 +2,6 @@ menu:
 - {name: 'Home', url: '/'}
   - {name: 'Home', url: '/'}
 - {name: 'Blog', url: '/blog'}
-  - - {name: 'Home', url: '/'}
 - {name: 'Resources', url: '/resources'}
 
 social:
