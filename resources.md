@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Resources"
 ---
 
 ## Resources
