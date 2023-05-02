@@ -1,7 +1,11 @@
 menu:
 - {name: 'Home', url: '/'}
+- {name: 'News', url: '/news'}
 - {name: 'Blog', url: '/blog'}
-- {name: 'Resources', url: '/resources'}
+- {name: 'Learn', url: '/learn'}
+- {name: 'Forum', url: '/forum'}
+- {name: 'Discord', url: '/discord'}
+- {name: 'About', url: '/about'}
 
 social:
 - {icon: 'github', link: 'https://github.com/zhutaosheng'}
