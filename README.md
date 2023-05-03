@@ -1,2 +1,2 @@
 
-Englanto - This name combines the words "English" and "Esperanto," a constructed language designed to be easy to learn and serve as a universal language.
+[Our website](https://www.zhutaosheng.com/vernac) is dedicated to promoting the Vernac language and making it accessible to anyone who wants to learn. And it is a constructed language designed to be easy to learn and serve as a universal language based on English.

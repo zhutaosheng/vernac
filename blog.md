@@ -1,6 +1,5 @@
 ---
-layout: home-with-comments
-title: "Blog"
+layout: default
 ---
 
 ## Post
