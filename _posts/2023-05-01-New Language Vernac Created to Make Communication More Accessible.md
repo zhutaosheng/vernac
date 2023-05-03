@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test"
+title: "New Language "Vernac" Created to Make Communication More Accessible"
 ---
 New Language "Vernac" Created to Make Communication More Accessible
 
