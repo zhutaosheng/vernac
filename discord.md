@@ -4,6 +4,17 @@ layout: default
 
 ## Discord Updating
 
+### Learn Vernac Discord community is now live and ready for learners to [join](https://discord.gg/TySedqZZVh)
+[https://discord.gg/TySedqZZVh](https://discord.gg/TySedqZZVh)
+
+## The Vernac Community
+The Vernac Community is a vibrant and diverse group of individuals who share a passion for language learning and cultural exchange. This community is built around the Vernac language, which is a simplified version of English designed to be easy to learn and use. The members of this community come from all around the world, and they have a wide range of backgrounds and experiences.
+
+The Vernac Community offers a welcoming and supportive environment for anyone who wants to learn and improve their Vernac language skills. Members of the community share resources, provide feedback, and practice speaking with one another. They also have access to a variety of language learning tools, including online courses, textbooks, and audio materials.
+
+In addition to language learning, the Vernac Community is also a place where members can connect with others from different cultures and backgrounds. Through language exchange programs and cultural events, members can learn about other countries and make new friends from around the world.
+
+Finally, the Vernac Community is dedicated to the ongoing development of the Vernac language. Members collaborate on language learning projects, work together to expand the vocabulary of the language, and contribute to the creation of new resources. This ensures that Vernac remains a dynamic and evolving language that meets the needs of its users.
 
 ## Learn Vernac Discord community is now live and ready for learners to join
 
@@ -19,7 +30,7 @@ To join our Learn Vernac Discord community, simply follow the link on our websit
 
 
 
-## Vernac is currently developing a Discord community
+### Vernac is currently developing a Discord community
 We are excited to announce that Learn Vernac is currently developing a Discord community to better serve our users. This new platform will allow learners to connect with one another, practice their language skills, and engage in conversation in a fun and supportive environment.
 
 Discord is a popular communication platform that allows users to create online communities, chat rooms, and voice channels. It's an ideal platform for language learners to connect with one another, ask questions, and practice their language skills in real-time.

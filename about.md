@@ -56,3 +56,26 @@ For me, creating Vernac was not just about simplifying English, but also about e
 
 
 *Important GDPR information: Please note that our website uses cookies to assist in your experience on our website. We do not ask for, nor store any identifying information about our visitors. The online presence is sourced solely in the United States and recognizes only US law regarding privacy issues. Users finding this unacceptable should not visit online resources.*
+
+
+## Wikipedia
+ref:https://en.wikipedia.org/wiki/Na%CA%BCvi_language
+## Vernac language
+
+## Roots
+## Development
+## Structure and usage
+### Toggle Structure and usage subsection
+### Phonology and orthography
+- Vowels
+- Consonants
+- Sound change
+### Grammar
+- Nouns
+- Adjectives
+- Verbs
+### Lexicon
+## See also
+## References
+## Further reading
+## External links
