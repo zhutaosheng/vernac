@@ -9,7 +9,8 @@
     }
     
     .column {
-      flex: 1;
+      flex-basis: 0;
+      flex-grow: 1;
       text-align: center;
     }
     
@@ -21,18 +22,24 @@
       text-align: right;
     }
   </style>
-    <div class="column">
-      <p>Left Column</p>
-      <p>This is some content in the left column.</p>
-    </div>
-    <div class="column">
-      <p>Center Column</p>
-      <p>This is some content in the center column.</p>
-    </div>
-    <div class="column">
-      <p>Right Column</p>
-      <p>This is some content in the right column.</p>
-    </div>
+ 
+  <div class="column:first-child">
+    <p>
+      <a href="{{ site.github.url }}/">Home</a> 
+      <a href="{{ site.github.url }}/news">News</a>
+      <a href="{{ site.github.url }}/learn">Learn</a>
+      <a href="{{ site.github.url }}/discord">Discord</a>
+      <a href="{{ site.github.url }}/about">About</a>
+    </p>
+  </div>
+  <div class="column:first-child">
+    <p>
+      WE'RE SOCIAL
+      In development
+      Twitter
+      YouTube
+    </p>
+  </div>
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       <a href="https://github.com/zhutaosheng/vernac/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer" class="ms-3 fs-5"><i class="fab fa-github"></i></a>
