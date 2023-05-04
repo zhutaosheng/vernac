@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Welcome to Learn Vernac!👋
+## Welcome to Learn Vernac.org!👋
 
 Vernac: This name means "vernacular" and suggests a language that is based on English but with simplified grammar and vocabulary, designed for ease of use and universal communication.
 
-👋 Learn [Vernac](https://www.vernac.org)! is a language-learning platform that aims to make learning easy and accessible for everyone. 💬 With a focus on vernacular languages that are based on English, the platform provides simplified grammar and vocabulary to help learners communicate effectively. 
+👋 Learn Vernac! is a language-learning platform that aims to make learning easy and accessible for everyone. 💬 With a focus on vernacular languages that are based on English, the platform provides simplified grammar and vocabulary to help learners communicate effectively. 
 
 📚 Whether you're a beginner or an advanced learner, there's something for everyone on Learn Vernac! 💻 With its user-friendly interface and engaging lessons, you'll be speaking a new language in no time! 🌍 Join the community of learners today and start your language-learning journey with Learn Vernac! 🚀
 
