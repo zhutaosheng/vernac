@@ -1,5 +1,6 @@
+👋 Learn [Vernac](https://www.vernac.org)! is a language-learning platform that aims to make learning easy and accessible for everyone. 💬 With a focus on vernacular languages that are based on English, the platform provides simplified grammar and vocabulary to help learners communicate effectively. 📚 Whether you're a beginner or an advanced learner, there's something for everyone on Learn Vernac! 💻 With its user-friendly interface and engaging lessons, you'll be speaking a new language in no time! 🌍 Join the community of learners today and start your language-learning journey with Learn Vernac! 🚀
 
-[Our website](https://www.vernac.org) is dedicated to promoting the Vernac language and making it accessible to anyone who wants to learn. And it is a constructed language designed to be easy to learn and serve as a universal language based on English.
+We dedicate to promoting the Vernac language and making it accessible to anyone who wants to learn. And it is a constructed language designed to be easy to learn and serve as a universal language based on English.
 
 ## Q&A questions:
 
