@@ -1,7 +1,6 @@
 menu:
 - {name: 'Home', url: '/'}
 - {name: 'News', url: '/news'}
-- {name: 'Blog', url: '/blog'}
 - {name: 'Learn', url: '/learn'}
 - {name: 'Discord', url: '/discord'}
 - {name: 'About', url: '/about'}
