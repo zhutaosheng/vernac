@@ -1,45 +1,38 @@
 <footer class="pt-5 my-5 text-muted border-top">
 
-    <style>
-      body {
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: space-between;
-      }
-      
-      .column {
-        width: calc((100% - 60px) / 3);
-        padding: 30px;
-        box-sizing: border-box;
-      }
-      
-      .left {
-        text-align: left;
-      }
-      
-      .center {
-        text-align: center;
-      }
-      
-      .right {
-        text-align: right;
-      }
-    </style>
-    <div class="column left">
-      <h2>Left Column</h2>
-      <p>left column.</p>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: space-between;
+    }
+    
+    .column {
+      flex: 1;
+      text-align: center;
+    }
+    
+    .column:first-child {
+      text-align: left;
+    }
+    
+    .column:last-child {
+      text-align: right;
+    }
+  </style>
+    <div class="column">
+      <p>Left Column</p>
+      <p>This is some content in the left column.</p>
     </div>
-    <div class="column center">
-      <h2>Center Column</h2>
-      <p>center column.</p>
+    <div class="column">
+      <p>Center Column</p>
+      <p>This is some content in the center column.</p>
     </div>
-    <div class="column right">
-      <h2>Right Column</h2>
-      <p>right column.</p>
+    <div class="column">
+      <p>Right Column</p>
+      <p>This is some content in the right column.</p>
     </div>
-
-
   <div class="row">
     <div class="col-md-6 text-end social-media-icons">
       <a href="https://github.com/zhutaosheng/vernac/edit/main/{{ page.path }}" target="_blank" rel="noopener noreferrer" class="ms-3 fs-5"><i class="fab fa-github"></i></a>
