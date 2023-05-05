@@ -16,7 +16,7 @@ layout: default
 <style>
 .slideshow-container {
 	width: 100%;
-	height: 400px;
+	height: 200px;
 	position: relative;
 	overflow: hidden;
 }
