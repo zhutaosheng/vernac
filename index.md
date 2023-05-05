@@ -4,6 +4,44 @@ layout: default
 
 ## Welcome to Learn Vernac.org!👋
 
+
+<div class="slideshow-container">
+    <div class="slideshow">
+        <img src="/assets/img/vernac-icon-1.png">
+        <img src="/assets/img/vernac-icon-1.png">
+        <img src="/assets/img/vernac-icon-1.png">
+    </div>
+</div>
+
+<style>
+.slideshow-container {
+	width: 100%;
+	height: 400px;
+	position: relative;
+	overflow: hidden;
+}
+
+.slideshow {
+	width: 300%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	animation: slide 6s infinite;
+}
+
+.slideshow img {
+	width: 33.33%;
+	height: 100%;
+	float: left;
+}
+</style>
+
+
+Believe it or not, you can learn Vernac for free!
+
+The Learn Vernac.org has been helping people to learn English for free since 2023!
+
 Vernac: This name means "vernacular" and suggests a language that is based on English but with simplified grammar and vocabulary, designed for ease of use and universal communication.
 
 👋 Learn Vernac! is a language-learning platform that aims to make learning easy and accessible for everyone. 💬 With a focus on vernacular languages that are based on English, the platform provides simplified grammar and vocabulary to help learners communicate effectively. 
@@ -28,4 +66,10 @@ We offer a variety of resources to help you learn Vernac, including a comprehens
 ## Interact
 Vernac Forums – Discuss the Vernac language, get feedback, and perhaps learn something new. 
 Vernac Community Discord Server – Where to go to hear and learn the Vernac language in a multimedia learning environment and interact with other Vernac fans in real time. The server provides scheduled online interactive language classes with knowledgeable instructors and tutors as well as channels to practice conversation in Vernac.
+
+The Learn Vernac.org  has everything you need to become a confident Vernac learner!
+
+## Contact Us
+
+If you have a question about the Learn Vernac, fill out our [Contact Form](https://www.vernac.org/contact), and we will get back to you asap.
 

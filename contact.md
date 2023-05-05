@@ -4,6 +4,8 @@ layout: default
 
 ## Contact Us
 
+If you have a question about the Learn English Network, fill out our Contact Form, and we will get back to you asap.
+
 🌐 Vernac is a language-learning platform that is easily accessible through our website. 🖥️ In addition to our website, we have a strong presence on various social media platforms such as Discord, Twitter, and more. 📲 You can follow us on these platforms to stay up-to-date on the latest news, updates, and language-learning tips. 
 
 👍 We understand the importance of being accessible and available to our users, and we make it easy to get in touch with us. 📝 You can submit a contact form on our website to get in touch with our team and ask any questions you may have. 
