@@ -25,7 +25,9 @@ Vernac Phonetics is a writing system that uses the same letters as the English l
 The Vernac Phonetics alphabet consists of 26 letters, just like the English alphabet. The letters and their corresponding IPA symbols are as follows:
 
 A a B bu C ci D E F G H I J K L M N O P Q R S T U V W X Y Z
+
 a b c d e f g h i j k l m n o p q r s t u v w x y z
+
 /ə/ /bi/ /si/ /di/ /i/ /ɛf/ /dʒi/ /eɪtʃ/ /aɪ/ /dʒeɪ/ /keɪ/ /ɛl/ /ɛm/ /ɛn/ /oʊ/ /pi/ /kju/ /ɑr/ /ɛs/ /ti/ /ju/ /vi/ /dʌbəl ju/ /ɛks/ /waɪ/ /zi/.
 
 The simplicity of the Vernac Phonetics alphabet makes it easy to learn and use. Unlike some vernacular languages that may have complex pronunciation patterns, Vernac Phonetics follows similar pronunciation patterns to English. This means that English speakers can easily identify and pronounce the sounds of Vernac Phonetics. If you can speak English, you can easily learn and speak Vernac Phonetics as well. 
@@ -35,6 +37,7 @@ In summary, Vernac Phonetics is a simple writing system that uses the same lette
 ## This is the Vernac Phonetics alphabet in the word
 
 Vowels: a /ɑ/ o /oʊ/ e /ə/ i /i/ u /u/
+
 a /a/ b /bu/ c /ce/ d /de/ e /e/ f /fo/ g /ge/ h /he/ i /i/ j /jei/ k /ke/ l /ol&le/ m /me/ n /ne/ o /oʊ/ p /pu/ q /qi/ r /ri/ s /si/ t /te/ u /u/ v /vu/ w /wu/ x /ks/ y /yi/ z /zi/
 
 
@@ -100,19 +103,30 @@ This rule applies to most consonant endings in Vernac Phonetics, but there may b
 Aolwais,always,ɑlweiz; laot,lot,lɑt; abaut,about,baʊt
 
 In Vernac Phonetics, there are several vowel combinations that are pronounced similar in English. These include "au," "eu," "iu," "ou," "ao," and "ai."
+
 The combination "au" is pronounced as a diphthong, similar to the "ow" sound in "cow." 
+
 The combination "eu" is also pronounced as a diphthong, but with a more closed mouth shape. 
+
 The combination "iu" is pronounced as a triphthong, with the mouth moving from "ee" to "y" to "oo" in quick succession. 
+
 The combination "ou" is pronounced as a diphthong, but with a more open mouth shape. It sounds similar to the "ow" sound in "show." 
+
 The combination "ao" is pronounced as a single sound, similar to the "ow" sound in "bow."
+
 The combination "ai" is pronounced as a diphthong, similar to the "ai" sound in "airplane." 
 
 By understanding how these vowel combinations are pronounced in Vernac Phonetics, learners can better communicate and understand spoken words in the language.
 Add: aoeiu
+
 ao ae ai au
+
 Oa oo oe oi ou
+
 Ea eo ee ei eu
+
 Ia io ie ii iu
+
 Ua uo ue ui uu
 
 
