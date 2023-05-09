@@ -61,6 +61,16 @@ LGBTQ - /ɛlkjuːbiːtiːkjuː/ (el-kew-bee-tee-kew)
 
 # Rule
 
+## Miscellaneous
+Add: th, tr,  ch(qi tʃ),sh(she) f(ph)
+Ch, Generally use ch instead of q
+
+Add g and remove g
+kindom kingdom [ king-duhm ]
+inglish English [ ing-glish ]
+kang Kang | Kangg Kangge | language Languagage 
+
+
 ## Vernac "Use two vowels aii to pronounce the /aɪ/ sound" a in a word 
 Example: taiim,time,tɑɪm; laiik,like,lɑɪk; laiif,life,lɑɪf; goiing,going,goʊɪn
 
@@ -104,6 +114,7 @@ Oa oo oe oi ou
 Ea eo ee ei eu
 Ia io ie ii iu
 Ua uo ue ui uu
+
 
 ## Vernac "unnecessary letters" a in a word 
 Bing,being,biɪŋ; naiit,night,nɑɪt

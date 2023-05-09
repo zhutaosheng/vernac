@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## Vernac Example sentences
 
 ## Vernac to pronounce demonstrated by the example sentences
 Vernac Phonetics is designed to simplify the pronunciation of English words in a way that closely matches their original sound, while using a slightly different spelling that better reflects how they are pronounced. So while the sound may be similar or almost identical to the original English word, the spelling may be slightly different to make it easier to read and pronounce in Vernac.

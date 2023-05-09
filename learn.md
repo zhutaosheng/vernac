@@ -6,6 +6,7 @@ layout: default
 
 We have organized our language learning resources into several pages: Vocabulary, Grammar, Phonetics, Phrases, and Numbers. And our discord remains the best resource of all.
 
+[Example sentences](/v/sentences-example)
 
 [Vocabulary](/v/vocabulary)
     Vocabulary noun
