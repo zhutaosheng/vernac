@@ -4,7 +4,7 @@ layout: default
 
 ## Grammar
 
-Pleas Ref: https://en.wikipedia.org/wiki/English_grammar
+Pleas Ref: [Wiki English Grammar](https://en.wikipedia.org/wiki/English_grammar)
 
 Vernac is a fascinating new language with a grammar system that is similar to English. In fact, many of the grammatical rules and structures used in English can be found in Vernac as well. These include subject-verb agreement, verb tenses, adjectives and adverbs, prepositions, pronouns, and more.
 
