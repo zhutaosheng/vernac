@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+<a class="twitter-timeline" href="https://twitter.com/LearnVernac?ref_src=twsrc%5Etfw">News by LearnVernac</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 ## New Language "Vernac" Created to Make Communication More Accessible
 
 Posted on May 1, 2023 by Zhutao
