@@ -4,6 +4,7 @@ menu:
 - {name: 'Learn', url: '/learn'}
 - {name: 'Discord', url: '/discord'}
 - {name: 'About', url: '/about'}
+- {name: 'Search', url: '/search'}
 
 social:
 - {icon: 'github', link: 'https://github.com/zhutaosheng'}
