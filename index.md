@@ -40,7 +40,7 @@ layout: default
 
 Believe it or not, you can learn Vernac for free!
 
-The Learn Vernac.org has been helping people to learn English for free since 2023!
+The Learn Vernac.org has been helping people to learn Vernac language for free since 2023!
 
 Vernac: This name means "vernacular" and suggests a language that is based on English but with simplified grammar and vocabulary, designed for ease of use and universal communication.
 
