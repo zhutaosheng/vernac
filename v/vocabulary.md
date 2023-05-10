@@ -9,9 +9,11 @@ Download the [Vernac / English Dictionary]() - under developing
 This section contains the current list of Vernac words. To search this vocabulary list, use the following Keyboard shortcuts: PC: Ctrl+F, Mac: ⌘+F
 
 
-[vocabulary 500 word Vernac-English order with frequency](/v/vocabulary-500-word-Vernac-English-order-with-frequency.md)
+[vocabulary 500 word Vernac-English order with frequency](/v/vocabulary-500-word-Vernac-English-order-with-frequency.md) - discarded, old file.
 
-[vocabulary 1000-word Vernac English order frequency](https://docs.google.com/spreadsheets/d/1VOTTucWvjX_2-fWeeqO7guyZjyTUavs9rlugwSMrcMI/edit?usp=sharing)
+[vocabulary 1000-word Vernac English order frequency](https://docs.google.com/spreadsheets/d/1VOTTucWvjX_2-fWeeqO7guyZjyTUavs9rlugwSMrcMI/edit?usp=sharing) - current working.
+
+[google-19000-english_en_vernac](https://docs.google.com/spreadsheets/d/1HUujcJY3Tkg52cp0IafDN60q162sVbk2ZVRXZ6sHuvs/edit?usp=sharing) - being modified. Waiting to add the first 1000 words this doc.
 
 If you're a beginner in learning Vernac, this 1000-word Vernac/English dictionary is a valuable resource to help you get started. The dictionary provides a comprehensive list of commonly used Vernac words and their corresponding English translations. With this resource, you can easily look up any word in Vernac that you come across and learn its English meaning.
 
