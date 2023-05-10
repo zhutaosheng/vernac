@@ -5,13 +5,13 @@ layout: default
 ## Phrases
 
 Hello, how are you doing? 
-Halo, haw ar you duing
+Halo, haw ar you duin
 
 What's your name? 
 wot is your naim
 
 I love you.
-Aii lev you
+I lev you
 
 Where do you live? 
 Vir du you liv
@@ -35,19 +35,19 @@ See you later.
 Si you laiter
 
 How's it going? 
-Haw is it going
+Haw is it goin
 
 Nice to meet you.
 naiis tu mit you
 
 What do you do for a living? 
-Wot du you du for e living
+Wot du you du for e livin
 
 Sorry, I didn't catch that. Can you sai it again? 
 Saori ay dident kaich that, can you sai it agen
 
 I'll have a coffee
-Aii will haiw e cofi
+I will haiw e cofi
 
 Where are you from? 
 wier ar you from
