@@ -28,7 +28,32 @@ A a B bu C ci D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 
-/ə/ /bi/ /si/ /di/ /i/ /ɛf/ /dʒi/ /eɪtʃ/ /aɪ/ /dʒeɪ/ /keɪ/ /ɛl/ /ɛm/ /ɛn/ /oʊ/ /pi/ /kju/ /ɑr/ /ɛs/ /ti/ /ju/ /vi/ /dʌbəl ju/ /ɛks/ /waɪ/ /zi/.
+a /eɪ/, 
+b /bi/, 
+c /si/, 
+d /di/, 
+e /i/, 
+f /ɛf/, 
+g /dʒi/, 
+h /eɪtʃ/, 
+i /aɪ/, 
+j /dʒeɪ/, 
+k /keɪ/, 
+l /ɛl/, 
+m /ɛm/, 
+n /ɛn/, 
+o /oʊ/, 
+p /pi/, 
+q /kju/, 
+r /ɑr/, 
+s /ɛs/, 
+t /ti/, 
+u /ju/, 
+v /vi/, 
+w /dʌbəl ju/, 
+x /ɛks/, 
+y /waɪ/, 
+z /zi/
 
 The simplicity of the Vernac Phonetics alphabet makes it easy to learn and use. Unlike some vernacular languages that may have complex pronunciation patterns, Vernac Phonetics follows similar pronunciation patterns to English. This means that English speakers can easily identify and pronounce the sounds of Vernac Phonetics. If you can speak English, you can easily learn and speak Vernac Phonetics as well. 
 
@@ -38,8 +63,34 @@ In summary, Vernac Phonetics is a simple writing system that uses the same lette
 
 Vowels: a /ɑ/ o /oʊ/ e /ə/ i /i/ u /u/
 
-a /a/ b /bu/ c /ce/ d /de/ e /e/ f /fo/ g /ge/ h /he/ i /i/ j /jei/ k /ke/ l /ol&le/ m /me/ n /ne/ o /oʊ/ p /pu/ q /qi/ r /ri/ s /si/ t /te/ u /u/ v /vu/ w /wu/ x /ks/ y /yi/ z /zi/
+a b c d e f g h i j k l m n o p q r s t u v w x y z
 
+a /a/, 
+b /bu/, 
+c /si/, 
+d /de/, 
+e /e/, 
+f /fu/, 
+g /ge/, 
+h /he/, 
+i /i/, 
+j /jei/, 
+k /ke/, 
+l /ol&le/, 
+m /me/, 
+n /ne/, 
+o /oʊ/, 
+p /pu/, 
+q /qi/, 
+r /ri/, 
+s /si/, 
+t /te/, 
+u /u/, 
+v /vi/, 
+w /wu/, 
+x /ks/, 
+y /yi/, 
+z /zi/
 
 This is the Vernac Phonetics alphabet. Each letter represents a specific sound, and the pronunciation is similar to English. The vowels are represented by a, o, e, i, and u, and there are also some additional vowel combinations such as au, eu, iu, ou, ao, and ai. The consonants include b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, and z. It's important to note that some letters may have multiple sounds depending on the word they are in. Overall, the Vernac Phonetics alphabet is a simple and straightforward way to represent the sounds of vernacular languages.
 
@@ -52,12 +103,8 @@ Just imaging Vernac abbreviated words is a system of pronunciation that provides
 Ten abbreviated words in Vernac /English and their pronunciations in IPA symbols:
 
 ASAP - /eɪsæp/ (ay-sap)
-DIY - /diːaɪˈwaɪ/ (dee-why)
 RSVP - /ɑrɛsˈviːpi/ (ar-es-vee-pee)
-CEO - /siːiːˈoʊ/ (see-oh)
-FAQ - /fæk/ (fak)
 GPS - /dʒiːpiːˈɛs/ (jee-pee-ess)
-ICU - /aɪsiːjuː/ (eye-see-you)
 ATM - /eɪtiːˈɛm/ (ay-tee-em)
 VIP - /viːaɪˈpi/ (vee-eye-pee)
 LGBTQ - /ɛlkjuːbiːtiːkjuː/ (el-kew-bee-tee-kew)
@@ -92,15 +139,9 @@ In Vernac Phonetics, words ending in consonants may or may not have an extra vow
 
 
 
-## Vernac "words ending in consonants" a in a word (Not applicable)
-Waiy,why,ɑɪ; compny,company,kʌmpəni; hom,home,hjum (Not applicable)
-
-In general, when a word ends in a consonant, the ending consonant sound is pronounced, unless it is absolutely necessary to add an extra sound for clarity or ease of pronunciation.
-
-This rule applies to most consonant endings in Vernac Phonetics, but there may be exceptions where an extra sound may be added for clarity or ease of pronunciation.
 
 ## Vernac "vowel combinations, Dipthongs " a in a word 
-Aolwais,always,ɑlweiz; laot,lot,lɑt; abaut,about,baʊt
+alwais,always,ɑlweiz; laot,lot,lɑt; about,about
 
 In Vernac Phonetics, there are several vowel combinations that are pronounced similar in English. These include "au," "eu," "iu," "ou," "ao," and "ai."
 
@@ -131,17 +172,19 @@ Ua uo ue ui uu
 
 
 ## Vernac "unnecessary letters" a in a word 
-Bing,being,biɪŋ; naiit,night,nɑɪt
+naiit,night,nɑɪt
 In Vernac Phonetics, unnecessary letters at the word are often removed, especially if they are silent letters. This is because the language is focused on simplifying pronunciation as much as possible. For example, the word "trapped" is spelled as "trapd" in Vernac Phonetics, with the silent "e" at the end removed. Similarly, "stopped" would be spelled "stopd," "closed" would be spelled "closd," and so on. This rule applies to most words with silent letters at the end. However, if the final letter contributes to the pronunciation of the word, it is not removed. For example, "hoping" would be spelled as "hopiin," because the "e" at the end affects the sound of the word.
 
 ## Vernac "ing/ang/eng/ung/ong" in a word 
+in ing, ang ang, eng eng, ung ung, ong ong
 In Vernac Phonetics, when the letters "ing/ang/eng/ung/ong" appear in a word, they are pronounced as "ing", "ang", "eng", "ung", and "ong" respectively. This is because the English pronunciation of these letters does not always match their spelling, and Vernac Phonetics aims to simplify and standardize the pronunciation of words. By using these consistent sounds for these letter combinations, it is easier for learners to read and pronounce unfamiliar words.
 
 If there is a dound like g, then spell it like this  aun, oun, iun, eun
 account,ekaunt,əkaʊnt
 
-## Vernac "shion" in a word 
-In Vernac Phonetics, the "shion" combination represents a distinct sound that is similar from the "sh" sound in English. It is pronounced as "shh-oh-nah-ree-uh" for "shionnaria." Similarly, the combination "co" followed by a consonant is pronounced as a separate sound, different from the sound of the individual letters. 
+## Vernac "'shin' to replace 'tion'" in a word 
+tionnaria for "shinnaria."
+In Vernac Phonetics, the "tion" combination represents a distinct sound that is similar from the "sh" sound in English. It is pronounced as "shh-oh-nah-ree-uh" tionnaria for "shinnaria." Similarly, the combination "co" followed by a consonant is pronounced as a separate sound, different from the sound of the individual letters. 
 
 ## Vernac "com" in a word 
 In Vernac Phonetics, the letter "o" followed by the consonant "m" is pronounced as a nasal "o" sound, similar to the sound in the word "song". This is why "community" is pronounced as "com-miounity" 
@@ -161,7 +204,12 @@ Pipol,people,pipl̩; ounly,only,oʊnli
 In Vernac Phonetics, the letter "l" must always have a vowel sound before it. If there is no vowel before "l" in a word, then it will be pronounced as a separate consonant. For example, in the word "old," since there is no vowel before the "l," it will be pronounced as "ol-d" instead of "old". Another example is the word "cold," which would be pronounced as "col-d" instead of "cold" in Vernac Phonetics. This rule ensures clarity in pronunciation and distinguishes "l" as a separate consonant when necessary.
 
 ## Vernac "w,v,c,k" in a word 
-In Vernac Phonetics, the letter "b" is pronounced as it is, without adding a vowel sound after it. Therefore, the word "problems" is pronounced as "prob-lems" instead of "pro-bu-lems". This rule is applied consistently to all words containing the letter "b" in Vernac Phonetics.
+mowie	movie,
+bilow	below,
+abow	above	əbʌv,
+celaikshin	collection	kəlɛkʃn̩
+
+In Vernac Phonetics, the letter "w" is pronounced as wu, without adding a vowel sound after it. Therefore, the word "problems" is pronounced as "prob-lems" instead of "pro-bu-lems". This rule is applied consistently to all words containing the letter "b" in Vernac Phonetics.
 
 
 
