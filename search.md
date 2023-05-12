@@ -10,6 +10,10 @@ layout: default
 
 <div class="gcse-search"></div>
 
+{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}
+<div id="results">{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}</div>
+
+<div id="results">{{ site.data}}</div>
 ## New Search
 
 <form onsubmit="return false;">
