@@ -10,14 +10,14 @@ layout: default
 
 <div class="gcse-search"></div>
 
-{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}
-<div id="results">{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}</div>
 
-<div id="results">{{ site.data}}</div>
-## New Search
+<div class="page-content">
+        
+
 
 <form onsubmit="return false;">
-  <input type="input" id="search" class="search-input" placeholder="{{ site.data.text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" autofocus>
+  <input type="input" id="search" class="search-input" placeholder="Enter your search term..." autofocus="" spellcheck="false" data-ms-editor="true">
 </form>
 
 <div id="results"></div>
+

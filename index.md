@@ -4,6 +4,8 @@ layout: default
 
 ## Welcome to Learn Vernac.org!👋
 
+*Wernaik - A universal language*
+
 
 <div class="slideshow-container">
     <div class="slideshow">
