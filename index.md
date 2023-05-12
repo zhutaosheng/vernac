@@ -42,7 +42,7 @@ Believe it or not, you can learn Vernac for free!
 
 The Learn Vernac.org has been helping people to learn Vernac language for free since 2023!
 
-Vernac: This name means "vernacular" and suggests a language that is based on English but with simplified grammar and vocabulary, designed for ease of use and universal communication. Vernacular language is commonly referred to as "Vernac" in informal language or colloquial speech. In Vernac, it also be written as "Wernak" to reflect its pronunciation more accurately.
+Vernac: This name means "vernacular" and suggests a language that is based on English but with simplified grammar and vocabulary, designed for ease of use and universal communication. Vernacular language is commonly referred to as "Vernac" in informal language or colloquial speech. In Vernac, it also be written as "Wernaik" to reflect its pronunciation more accurately.
 
 👋 Learn Vernac! is a language-learning platform that aims to make learning easy and accessible for everyone. 💬 With a focus on vernacular languages that are based on English, the platform provides simplified grammar and vocabulary to help learners communicate effectively. 
 
