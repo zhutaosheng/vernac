@@ -76,7 +76,7 @@ h /he/,
 i /i/, 
 j /jei/, 
 k /ke/, 
-l /ol&le/, 
+l /le/, 
 m /me/, 
 n /ne/, 
 o /oʊ/, 
@@ -118,11 +118,11 @@ Ch, Generally use ch instead of q
 Add g and remove g
 kindom kingdom [ king-duhm ]
 inglish English [ ing-glish ]
-kang Kang | Kangg Kangge | language Languagage 
+kang Kang | Kangg Kangge | Languagi language 
 
 
 ## Vernac "Use two vowels aii to pronounce the /aɪ/ sound" a in a word 
-Example: taiim,time,tɑɪm; laiik,like,lɑɪk; laiif,life,lɑɪf; goiing,going,goʊɪn
+Example: taiim,time,tɑɪm; laiik,like,lɑɪk; laiif,life,lɑɪf
 
 The rule used to convert "nice" to "naiis" in Vernac Phonetics is a simple phonetic rule that corresponds to the pronunciation of the word in English.
 
@@ -132,7 +132,7 @@ In Vernac Phonetics, the "ice" sound is represented by the combination of the le
 
 So, the rule is to use the "ai" combination to represent the "ice" sound, and add the final "s" sound to the end of the word to match the Vernac Phonetics pronunciation pattern.
 
-## Vernac " words ending in consonants may not have an extra vowel sound added " a in a word 
+## Vernac " words ending in consonants " in a word 
 Waii ,why,ɑɪ; compeni, company,kʌmpəni; hom,home,hjum
 
 In Vernac Phonetics, words ending in consonants may or may not have an extra vowel sound added depending on the situation. In general, the ending consonant sound is pronounced, but if an extra vowel sound is needed for clarity or ease of pronunciation, it can be added. For example, the word "Waii" is pronounced with an extra "i" sound to distinguish it from "why" and "ɑɪ", which have different meanings. Similarly, "compeni" is pronounced with an extra "e" sound to make it easier to say compared to "company". However, some words like "hom" do not require an extra vowel sound, and are pronounced with just the ending consonant sound. The decision to add an extra vowel sound is based on the context and the speaker's preference.
@@ -141,7 +141,7 @@ In Vernac Phonetics, words ending in consonants may or may not have an extra vow
 
 
 ## Vernac "vowel combinations, Dipthongs " a in a word 
-alwais,always,ɑlweiz; laot,lot,lɑt; about,about
+aowais,always,ɑlweiz; laot,lot,lɑt
 
 In Vernac Phonetics, there are several vowel combinations that are pronounced similar in English. These include "au," "eu," "iu," "ou," "ao," and "ai."
 
@@ -200,14 +200,14 @@ In Vernac Phonetics, the sound combination "ks" is replaced by "x" when it appea
 In Vernac Phonetics, the letters "iou" are pronounced as "you". This applies to words like "you" and "youth". However, in some cases where "iou" appears in the middle of a word, it can be pronounced as "yu" or "io". For example, "few" would be pronounced as "fiou" because "few" has the letters "iou" in it and they are pronounced as "you".
 
 ## Vernac "l" in a word 
-Pipol,people,pipl̩; ounly,only,oʊnli
-In Vernac Phonetics, the letter "l" must always have a vowel sound before it. If there is no vowel before "l" in a word, then it will be pronounced as a separate consonant. For example, in the word "old," since there is no vowel before the "l," it will be pronounced as "ol-d" instead of "old". Another example is the word "cold," which would be pronounced as "col-d" instead of "cold" in Vernac Phonetics. This rule ensures clarity in pronunciation and distinguishes "l" as a separate consonant when necessary.
+pipo,people̩; ongli,only
+This rule ensures clarity in pronunciation and distinguishes "l" as a separate consonant when necessary.
 
 ## Vernac "w,v,c,k" in a word 
 mowie	movie,
 bilow	below,
-abow	above	əbʌv,
-celaikshin	collection	kəlɛkʃn̩
+abaw	above	əbʌv,
+kelaikshin	collection	kəlɛkʃn̩
 
 In Vernac Phonetics, the letter "w" is pronounced as wu, without adding a vowel sound after it. Therefore, the word "problems" is pronounced as "prob-lems" instead of "pro-bu-lems". This rule is applied consistently to all words containing the letter "b" in Vernac Phonetics.
 
