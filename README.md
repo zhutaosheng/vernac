@@ -33,3 +33,4 @@ There are a variety of ways to practice speaking Vernac with others, including l
 
 ### Is Vernac recognized as an official language anywhere?
 At this time, Vernac is not recognized as an official language anywhere. However, it is a useful tool for improving English skills and facilitating communication between people from different cultures and linguistic backgrounds.
+
